@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "65S6UlF1b5ksyFc15KuOPxEHFHBQlwxVjN/3Bi4Ig8RBg9WR8t1E+O8iVvJgbtJwG/iAACTlFqAOc0ZnQ2kRCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\לימודים\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
